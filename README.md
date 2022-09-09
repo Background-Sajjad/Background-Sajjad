@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Background-Sajjad&show_icons=true&theme=rchartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Background-Sajjad&show_icons=true&theme=chartreuse-dark)
